@@ -1,16 +1,10 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
-        "appIDs": [
-          "WT8ZG3Q8Z6.com.subbapay.app"
-        ],
-        "components": [
-          {
-            "/": "*",
-            "comment": "Matches any URL with a path that starts with /app/"
-          }
-        ]
+        "appID": "WT8ZG3Q8Z6.com.subbapay.app",
+        "paths": [ "*"]
       }
     ]
   }
