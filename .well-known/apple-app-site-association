@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "WT8ZG3Q8Z6.com.subbapay.app",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
